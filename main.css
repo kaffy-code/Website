@@ -1,0 +1,40 @@
+/* this is a comment in css 
+​
+this is still comment
+*/
+​
+​
+* {
+    background-color:azure;
+    box-sizing: border-box;
+    padding: 25px;
+}
+body{ background-color: blue;}
+​
+h1 {
+    color: rebeccapurple;
+    font-size: 64px;
+    font-family: 'Akronim', cursive;
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+.red-heading {
+    color: red;
+}
+.blue-heading {
+    color: blue;
+    width: 50%;
+    
+}
+​
+.extra-info {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-style: italic;
+}
+#extra-info-box {
+    background-color: rgb(255, 99, 71);
+    opacity: 20%;
+}
